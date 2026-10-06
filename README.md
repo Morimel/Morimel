@@ -11,9 +11,6 @@ Hey there! 👋<br><br>I'm Isa, a software engineer working with full-stack appl
 ![](https://streak-stats.demolab.com/?user=Morimel&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Morimel&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Morimel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Morimel&icon=2&color=0)](https://visitcount.itsvg.in)
 
